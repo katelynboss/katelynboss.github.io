@@ -1,6 +1,9 @@
 h1 { 
     color: rgb(0, 33, 71);
    }
+p {
+    color: rgb(255,255,255);
+  }
 body {
     background-color: rgb(104, 171, 232);
      }
