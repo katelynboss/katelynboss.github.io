@@ -7,3 +7,9 @@ p {
 body {
     background-color: rgb(104, 171, 232);
      }
+#img.alf_banner1.jpg {
+    width 100%
+    position: absolute;
+    top: 0;
+    left: 0;
+    }
