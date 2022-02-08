@@ -14,9 +14,9 @@ body {
       display: block;
       margin-left: auto;
       margin-right: auto;
+      width: 50%;
       position:absolute;
-      top: 550px;
-      left: 340px;
+      top: 300px;
       z-index: 5;
     }
 .pic1
@@ -25,8 +25,8 @@ body {
       margin-left: auto;
       margin-right: auto;
       position:absolute;
-      top: 25px;
-      left: 25px;
+      top: 550px;
+      left: 340px;
       z-index: 4;
     }
 .pic2
@@ -35,8 +35,8 @@ body {
       margin-left: auto;
       margin-right: auto;
       position:absolute;
-      top: 10px;
-      left: 10px;
+      top: 550px;
+      left: 655px;
       z-index: 3;
     }
 .pic3
@@ -45,8 +45,8 @@ body {
       margin-left: auto;
       margin-right: auto;
       position:absolute;
-      top: 25px;
-      left: 25px;
+      top: 550px;
+      left: 970px;
       z-index: 2;
     }
 .pic4
@@ -55,8 +55,8 @@ body {
       margin-left: auto;
       margin-right: auto;
       position:absolute;
-      top: 10px;
-      left: 10px;
+      top: 550px;
+      left: 1285px;
       z-index: 1;
     }
 .text
