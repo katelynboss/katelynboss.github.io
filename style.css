@@ -9,4 +9,46 @@ p {
 body {
     color: rgb(102, 133, 233);
 }
+.backdrop
+    {
+      position:absolute;
+      top: 550px;
+      left: 340px;
+      z-index: 1;
+    }
+.pic1
+    {
+      position:absolute;
+      top: 25px;
+      left: 25px;
+      z-index: 2;
+    }
+.pic2
+    {
+      position:absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 3
+    }
+.pic3
+    {
+      position:absolute;
+      top: 25px;
+      left: 25px;
+      z-index: 4
+    }
+.pic4
+    {
+      position:absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 5
+    }
+.
+    {
+      position:absolute;
+      top: 25px;
+      left: 25px;
+      z-index: 2;
+    }
         
