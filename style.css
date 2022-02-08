@@ -7,7 +7,7 @@ p {
     width: 1200px;
   }
 body {
-    background-color: #6685E9;
+    background-color: rgb(102,133,233);
 }
 .backdrop
     {
@@ -61,9 +61,6 @@ body {
     }
 .text
     {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
       position:absolute;
       top: 25px;
       left: 25px;
